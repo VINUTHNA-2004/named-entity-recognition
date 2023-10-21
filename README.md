@@ -8,8 +8,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 <img width="230" alt="273564653-2b9afbde-3735-4593-b966-d54549a3d2f2" src="https://github.com/VINUTHNA-2004/named-entity-recognition/assets/95067307/ec41fc00-2e8e-4b13-b00e-04791c5125eb">
 
 ## Neural Network Model
-
-Include the neural network model diagram.
+![op5](https://github.com/VINUTHNA-2004/named-entity-recognition/assets/95067307/b63091ff-82ad-459d-91cb-652acca72318)
 
 ## DESIGN STEPS
 
